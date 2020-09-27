@@ -9,6 +9,7 @@ Description: >
 Globals:
   Function:
     Timeout: 60
+    Runtime: nodejs12.x
   Api:
     Cors:
       AllowMethods: "'DELETE,GET,HEAD,OPTIONS,PATCH,POST,PUT'"
@@ -28,7 +29,6 @@ Resources:
     Properties:
       CodeUri: src/create-pdf/
       Handler: app.handler
-      Runtime: nodejs12.x
       Policies:
         - AmazonS3FullAccess
         - AWSLambdaBasicExecutionRole
