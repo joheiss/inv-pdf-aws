@@ -1,0 +1,13 @@
+{
+    "Version": "2012-10-17",
+    "Id": "Policy1573049156246",
+    "Statement": [
+        {
+            "Sid": "Stmt1573049154385",
+            "Effect": "Allow",
+            "Principal": "*",
+            "Action": "s3:*",
+            "Resource": "arn:aws:s3:::com.jovisco.sandbox.test.invoicing/*"
+        }
+    ]
+}

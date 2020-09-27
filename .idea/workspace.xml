@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a30b8ae-fd6f-4402-8a82-ccb1f19d9cd7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+    <fileColor scope="Non-Project Files (Material Oceanic)" color="2E3C43" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1huLtqCaj4GVjZap7twPoopzBaj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.TypeScript" />
+    <property name="ts.external.directory.path" value="C:\dev\aws\sandbox\sam\invoi\inv-pdf-aws\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\aws\sandbox\sam\invoi\inv-pdf-aws" />
+      <recent name="C:\dev\aws\sandbox\sam\invoi\inv-pdf-aws\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\aws\sandbox\sam\invoi\inv-pdf-aws" />
+      <recent name="C:\dev\aws\sandbox\sam\invoi\inv-pdf-aws\.aws-sam\build\CreatePdfFunction" />
+      <recent name="C:\dev\aws\sandbox\sam\invoi\inv-pdf-aws\src\create-pdf" />
+      <recent name="C:\dev\aws\sandbox\sam\invoi\inv-pdf-aws\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a30b8ae-fd6f-4402-8a82-ccb1f19d9cd7" name="Default Changelist" comment="" />
+      <created>1600856247772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600856247772</updated>
+      <workItem from="1600856249010" duration="47571000" />
+      <workItem from="1601051915469" duration="26563000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2438" y="301" key="FileChooserDialogImpl" timestamp="1600971243414">
+      <screen x="1920" y="5" width="1920" height="1080" />
+    </state>
+    <state x="2438" y="301" key="FileChooserDialogImpl/124.0.1796.1080/1920.5.1920.1080/3840.0.1920.1080@1920.5.1920.1080" timestamp="1600971243414" />
+    <state width="1299" height="277" key="GridCell.Tab.0.bottom" timestamp="1601057269356">
+      <screen x="1920" y="5" width="1920" height="1080" />
+    </state>
+    <state width="1299" height="277" key="GridCell.Tab.0.bottom/124.0.1796.1080/1920.5.1920.1080/3840.0.1920.1080@1920.5.1920.1080" timestamp="1601057269356" />
+    <state width="1299" height="277" key="GridCell.Tab.0.center" timestamp="1601057269356">
+      <screen x="1920" y="5" width="1920" height="1080" />
+    </state>
+    <state width="1299" height="277" key="GridCell.Tab.0.center/124.0.1796.1080/1920.5.1920.1080/3840.0.1920.1080@1920.5.1920.1080" timestamp="1601057269356" />
+    <state width="1299" height="277" key="GridCell.Tab.0.left" timestamp="1601057269356">
+      <screen x="1920" y="5" width="1920" height="1080" />
+    </state>
+    <state width="1299" height="277" key="GridCell.Tab.0.left/124.0.1796.1080/1920.5.1920.1080/3840.0.1920.1080@1920.5.1920.1080" timestamp="1601057269356" />
+    <state width="1299" height="277" key="GridCell.Tab.0.right" timestamp="1601057269356">
+      <screen x="1920" y="5" width="1920" height="1080" />
+    </state>
+    <state width="1299" height="277" key="GridCell.Tab.0.right/124.0.1796.1080/1920.5.1920.1080/3840.0.1920.1080@1920.5.1920.1080" timestamp="1601057269356" />
+    <state x="2089" y="106" width="1139" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600952663641">
+      <screen x="1920" y="5" width="1920" height="1080" />
+    </state>
+    <state x="2089" y="106" width="1139" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog/124.0.1796.1080/1920.5.1920.1080/3840.0.1920.1080@1920.5.1920.1080" timestamp="1600952663641" />
+  </component>
+</project>

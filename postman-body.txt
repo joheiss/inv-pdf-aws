@@ -1,0 +1,44 @@
+{
+	"invoice": {
+		"id": "5678",
+		"organization": "GHQ",
+		"billingPeriod": "September 2020",
+        "cashDiscountDays": "30",
+        "cashDiscountPercentage": "3",
+        "contractId": "4901",
+        "currency": "EUR",
+        "dueInDays": "60",
+        "internalText":"Das ist eine Testrechnung.",
+        "invoiceText": "nach Aufwand",
+        "issuedAt": "2020-09-26T12:00:00.000Z",
+        "paymentTerms": "30 Tage: 3% Skonto; 60 Tage: netto",
+        "receiverId": "1901",
+        "vatPercentage": "19.0",
+        "items": [
+            {
+                "id": "1",
+                "contractItemId": "1",
+                "cashDiscountAllowed": "true",
+                "description": "Arbeitszeit",
+                "quantity": "10",
+                "pricePerUnit": "100.00",
+                "quantityUnit": "Std.",
+                "vatPercentage": "19.0"
+            }
+        ]
+	},
+	"receiver": {
+		"id": "1234",
+		"organization": "GHQ",
+		"name": "Bezahler AG",
+		"address": {
+            "postalCode": "77777",
+            "city": "Testingen",
+            "street": "Test Allee 7",
+            "email": "test@test.example.de",
+            "phone": "+49 777 7654321",
+            "fax": "+49 777 7654329",
+            "webSite": "http://www.test.example.de"
+        }
+	}
+}

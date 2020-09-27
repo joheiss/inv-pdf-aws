@@ -1,0 +1,44 @@
+{
+  "name": "inv-pdf-aws",
+  "version": "1.0.0",
+  "description": "Invoice PDF AWS",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack-cli",
+    "build:dev": "NODE_ENV=development npm run build",
+    "build:prod": "NODE_ENV=production npm run build",
+    "clean": "rimraf .aws-sam .vscode",
+    "prebuild": "rimraf .aws-sam .vscode",
+    "prewatch": "rimraf .aws-sam .vscode",
+    "test": "jest",
+    "watch": "webpack-cli -w"
+  },
+  "author": "Josef Heiss <josef.heiss@jovisco.de> (http://www.jovisco-web.de)",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.62",
+    "@types/axios": "^0.14.0",
+    "@types/node": "^14.11.2",
+    "@types/pdfkit": "^0.10.6",
+    "aws-sam-webpack-plugin": "^0.6.0",
+    "aws4": "^1.10.1",
+    "axios": "^0.20.0",
+    "copy-webpack-plugin": "^6.1.1",
+    "file-loader": "^6.1.0",
+    "jest": "^26.4.2",
+    "string-replace-webpack-plugin": "^0.1.3",
+    "transform-loader": "^0.2.4",
+    "ts-jest": "^26.4.0",
+    "ts-loader": "^8.0.4",
+    "typescript": "^4.0.3",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.757.0",
+    "iconv-lite": "^0.6.2",
+    "jovisco-domain": "^1.0.69",
+    "jovisco-pdf": "^1.0.18",
+    "source-map-support": "^0.5.19"
+  }
+}

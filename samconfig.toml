@@ -1,0 +1,11 @@
+version = 0.1
+[default]
+[default.deploy]
+[default.deploy.parameters]
+stack_name = "jovisco-invoice-pdf"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-1hk4yrusy0nik"
+s3_prefix = "jovisco-invoice-pdf"
+region = "eu-central-1"
+confirm_changeset = true
+capabilities = "CAPABILITY_IAM"
+
