@@ -38,7 +38,7 @@
     "aws-sdk": "^2.757.0",
     "iconv-lite": "^0.6.2",
     "jovisco-domain": "^1.0.69",
-    "jovisco-pdf": "^1.0.18",
+    "jovisco-pdf": "^1.0.19",
     "source-map-support": "^0.5.19"
   }
 }

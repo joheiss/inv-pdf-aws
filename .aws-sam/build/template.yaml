@@ -6,6 +6,7 @@ Description: |
 Globals:
   Function:
     Timeout: 60
+    Runtime: nodejs12.x
   Api:
     Cors:
       AllowMethods: '''DELETE,GET,HEAD,OPTIONS,PATCH,POST,PUT'''
@@ -24,7 +25,6 @@ Resources:
     Properties:
       CodeUri: CreatePdfFunction
       Handler: app.handler
-      Runtime: nodejs12.x
       Policies:
         - AmazonS3FullAccess
         - AWSLambdaBasicExecutionRole
@@ -32,6 +32,6 @@ Resources:
         CreatePdf:
           Type: Api
           Properties:
-            Path: '/create-pdf/{id}'
+            Path: /create-pdf
             Method: post
             RestApiId: !<!Ref> CreatePdfApi

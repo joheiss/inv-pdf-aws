@@ -9,7 +9,7 @@ describe('PDF tests', () => {
         console.log('__dirname: ', __dirname);
     });
     it('should save a invoice PDF in an S3 bucket', async() => {
-        const invoice = mockInvoice('5999');
+        const invoice = mockInvoice('5118');
         const receiver = mockReceiver('1901');
         const pdfInput: InvoicePdfInputData = {
             invoice,
@@ -18,9 +18,9 @@ describe('PDF tests', () => {
         const request = {
             host: 'jxraw0zza3.execute-api.eu-central-1.amazonaws.com',
             method: 'POST',
-            url: `https://jxraw0zza3.execute-api.eu-central-1.amazonaws.com/Prod/create-pdf/${invoice.id}`,
+            url: `https://jxraw0zza3.execute-api.eu-central-1.amazonaws.com/Prod/create-pdf`,
             data: pdfInput,
-            path: `/Prod/create-pdf/${invoice.id}`,
+            path: `/Prod/create-pdf`,
             headers: {
                 'content-type': 'application/json'
             }
@@ -35,17 +35,14 @@ describe('PDF tests', () => {
         delete signedRequest.headers['Host'];
         delete signedRequest.headers['Content-Length'];
 
-        const response = await axios(signedRequest)
+        await axios(signedRequest)
             .then(res => {
-                console.log(res);
                 expect(res.status).toEqual(200);
             })
             .catch(err => {
                 console.error(err);
                 expect(err).not.toBeDefined();
             });
-
-        // expect(response).toBeDefined();
     });
 });
 
