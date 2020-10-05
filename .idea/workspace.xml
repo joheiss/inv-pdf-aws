@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a30b8ae-fd6f-4402-8a82-ccb1f19d9cd7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.aws-sam/build/CreatePdFFunction/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.aws-sam/build/CreatePdFFunction/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.aws-sam/build/CreatePdFFunction/app.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.aws-sam/build/CreatePdFFunction/app.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.aws-sam/build/template.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.aws-sam/build/template.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/create-pdf/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/create-pdf/app.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/create-pdf/tests/create-pdf.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/create-pdf/tests/create-pdf.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/template.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +64,7 @@
       <updated>1600856247772</updated>
       <workItem from="1600856249010" duration="47571000" />
       <workItem from="1601051915469" duration="28072000" />
-      <workItem from="1601562271972" duration="2661000" />
+      <workItem from="1601562271972" duration="3452000" />
     </task>
     <servers />
   </component>
