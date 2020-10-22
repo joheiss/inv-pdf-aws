@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4a30b8ae-fd6f-4402-8a82-ccb1f19d9cd7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +35,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../inv-pdf-sam-nest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../ts/tutorials/arrays" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -65,6 +66,8 @@
       <workItem from="1600856249010" duration="47571000" />
       <workItem from="1601051915469" duration="28072000" />
       <workItem from="1601562271972" duration="3452000" />
+      <workItem from="1602065985435" duration="4398000" />
+      <workItem from="1603183801693" duration="95000" />
     </task>
     <servers />
   </component>
@@ -72,10 +75,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2438" y="301" key="FileChooserDialogImpl" timestamp="1601299923332">
+    <state x="2598" y="291" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602065755734">
       <screen x="1920" y="5" width="1920" height="1080" />
     </state>
-    <state x="2438" y="301" key="FileChooserDialogImpl/124.0.1796.1080/1920.5.1920.1080/3840.0.1920.1080@1920.5.1920.1080" timestamp="1601299923332" />
+    <state x="2598" y="291" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/124.0.1796.1080/1920.5.1920.1080/3840.0.1920.1080@1920.5.1920.1080" timestamp="1602065755734" />
+    <state x="2438" y="301" key="FileChooserDialogImpl" timestamp="1603183853746">
+      <screen x="1920" y="5" width="1920" height="1080" />
+    </state>
+    <state x="2438" y="301" key="FileChooserDialogImpl/124.0.1796.1080/1920.5.1920.1080/3840.0.1920.1080@1920.5.1920.1080" timestamp="1603183853746" />
     <state width="1299" height="277" key="GridCell.Tab.0.bottom" timestamp="1601057269356">
       <screen x="1920" y="5" width="1920" height="1080" />
     </state>
